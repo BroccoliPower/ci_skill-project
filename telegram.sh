@@ -1,4 +1,5 @@
 #!/bin/bash
+#хэш бота
 token='6778147207:AAH_d8oscAS0xi7E9aHX6lqLcDPlYxesUDc'   
 chat="$1"
 subj="$2"
